@@ -1,5 +1,5 @@
 {
-    "name": "Ramzi-Alqrainy/solr-php",
+    "name": "ramzi-alqrainy/solr-php",
     "description": "A PHP library for indexing and searching documents within an Apache Solr installation.",
     "minimum-stability": "stable",
     "keywords": ["apache","solr","searchengine"],
