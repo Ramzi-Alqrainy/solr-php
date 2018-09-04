@@ -5,8 +5,8 @@
     "keywords": ["apache","solr","searchengine"],
     "license": "Apache-2.0",
     "support": {
-        "issues": "https://github.com/MiladAlshomary/couchbase-yii2/issues?state=open",
-        "source": "https://github.com/MiladAlshomary/couchbase-yii2"
+        "issues": "https://github.com/Ramzi-Alqrainy/solr-php/issues?state=open",
+        "source": "https://github.com/Ramzi-Alqrainy/solr-php"
     },
     "authors": [
         {
