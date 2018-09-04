@@ -1,0 +1,17 @@
+{
+    "name": "Ramzi-Alqrainy/solr-php",
+    "description": "A PHP library for indexing and searching documents within an Apache Solr installation.",
+    "minimum-stability": "stable",
+    "keywords": ["apache","solr","searchengine"],
+    "license": "Apache-2.0",
+    "support": {
+        "issues": "https://github.com/MiladAlshomary/couchbase-yii2/issues?state=open",
+        "source": "https://github.com/MiladAlshomary/couchbase-yii2"
+    },
+    "authors": [
+        {
+            "name": "Ramzi Alqrainy",
+            "email": "ramzi.alqrainy@gmail.com"
+        }
+    ]
+}
