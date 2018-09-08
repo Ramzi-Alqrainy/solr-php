@@ -13,5 +13,10 @@
             "name": "Ramzi Alqrainy",
             "email": "ramzi.alqrainy@gmail.com"
         }
-    ]
+    ],
+        "autoload": {
+        "psr-4": {
+            "ramzialqrainy\\solr\\": ""
+        }
+    }
 }
