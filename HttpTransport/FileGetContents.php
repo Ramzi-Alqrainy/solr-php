@@ -1,4 +1,5 @@
 <?php
+namespace ramzialqrainy\solr;
 /**
  * Copyright (c) 2007-2011, Servigistics, Inc.
  * All rights reserved.
