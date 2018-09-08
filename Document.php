@@ -1,6 +1,7 @@
 <?php
+namespace ramzialqrainy\solr;
 /**
- * Copyright (c) 2007-2011, Servigistics, Inc.
+ * Copyright (c) 2007-2018, Servigistics, Inc.
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -33,7 +34,7 @@
  *
  * @package Apache
  * @subpackage Solr
- * @author Donovan Jimenez <djimenez@conduit-it.com>
+ * @author Ramzi Alqrainy <ramzi.alqrainy@gmail.com>
  */
 
 /**
@@ -55,7 +56,7 @@
  * }
  * </code>
  */
-class Apache_Solr_Document implements IteratorAggregate
+class Apache_Solr_Document implements \IteratorAggregate
 {
 	/**
 	 * SVN Revision meta data for this class
