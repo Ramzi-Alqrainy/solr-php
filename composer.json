@@ -14,7 +14,7 @@
             "email": "ramzi.alqrainy@gmail.com"
         }
     ],
-        "autoload": {
+    "autoload": {
         "psr-4": {
             "ramzialqrainy\\solr\\": ""
         }
