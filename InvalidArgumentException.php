@@ -1,6 +1,7 @@
 <?php
+namespace ramzialqrainy\solr;
 /**
- * Copyright (c) 2007-2011, Servigistics, Inc.
+ * Copyright (c) 2007-2018, Servigistics, Inc.
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -29,11 +30,11 @@
  *
  * @copyright Copyright 2007-2011 Servigistics, Inc. (http://servigistics.com)
  * @license http://solr-php-client.googlecode.com/svn/trunk/COPYING New BSD
- * @version $Id: InvalidArgumentException.php 54 2011-02-04 16:29:18Z donovan.jimenez $
+ * @version $Id: InvalidArgumentException.php 
  *
  * @package Apache
  * @subpackage Solr
- * @author Donovan Jimenez <djimenez@conduit-it.com>
+ * @author Ramzi Alqrainy <ramzi.alqrainy@gmail.com>
  */
 
 class Apache_Solr_InvalidArgumentException extends Apache_Solr_Exception
@@ -46,5 +47,5 @@ class Apache_Solr_InvalidArgumentException extends Apache_Solr_Exception
 	/**
 	 * SVN ID meta data for this class
 	 */
-	const SVN_ID = '$Id: InvalidArgumentException.php 54 2011-02-04 16:29:18Z donovan.jimenez $';
+	const SVN_ID = '$Id: InvalidArgumentException.php $';
 }
