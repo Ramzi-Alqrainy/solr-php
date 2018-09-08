@@ -1,6 +1,7 @@
 <?php
+namespace ramzialqrainy\solr;
 /**
- * Copyright (c) 2007-2011, Servigistics, Inc.
+ * Copyright (c) 2007-2018, Servigistics, Inc.
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -27,16 +28,16 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  *
- * @copyright Copyright 2007-2011 Servigistics, Inc. (http://servigistics.com)
+ * @copyright Copyright 2007-2018 Servigistics, Inc. (http://servigistics.com)
  * @license http://solr-php-client.googlecode.com/svn/trunk/COPYING New BSD
- * @version $Id: Exception.php 54 2011-02-04 16:29:18Z donovan.jimenez $
+ * @version $Id: Exception.php 
  *
  * @package Apache
  * @subpackage Solr
- * @author Donovan Jimenez <djimenez@conduit-it.com>
+ * @author Ramzi Alqrainy <ramzi.alqrainy@gmail.com>
  */
 
-class Apache_Solr_Exception extends Exception
+class Apache_Solr_Exception extends \Exception
 {
 	/**
 	 * SVN Revision meta data for this class
